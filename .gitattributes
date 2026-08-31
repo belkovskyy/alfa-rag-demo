@@ -1,0 +1,4 @@
+* text=auto
+
+# Ноутбук хакатона лежит как справочный материал, кодовая база — в src/ и scripts/
+*.ipynb linguist-documentation
